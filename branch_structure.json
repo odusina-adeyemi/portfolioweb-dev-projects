@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "add-routing",
+    "ecommerce-app-ui",
+    "food-ordering-tutorial",
+    "login-register-react-form",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "add-routing": "main",
+    "ecommerce-app-ui": "main",
+    "food-ordering-tutorial": "main",
+    "login-register-react-form": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "add-routing",
+    "ecommerce-app-ui",
+    "food-ordering-tutorial",
+    "login-register-react-form",
+    "origin"
+  ]
+}
